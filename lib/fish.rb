@@ -6,5 +6,6 @@ class Fish
     @name=name
     self.mood="nervous"
   end
+end
 
 end
