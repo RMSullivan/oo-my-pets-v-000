@@ -5,3 +5,5 @@ class Dog
     @name=name
     self.mood="nervous"
 end
+
+end
